@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.skplanet.nlp.driver</OriginalElement>
+  <nodes>
+    <node x="-103.0" y="-171.0">com.skplanet.nlp.driver.TstoreMapperDriver</node>
+    <node x="-319.0" y="-171.0">com.skplanet.nlp.driver.KMDBMapperDriver</node>
+    <node x="-103.0" y="-51.0">com.skplanet.nlp.driver.HoppinMapperDriver</node>
+    <node x="-319.0" y="-51.0">com.skplanet.nlp.driver.NaverMapperDriver</node>
+    <node x="-231.0" y="70.0">com.skplanet.nlp.driver.SplitNaverCommentsByUnifiedID</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="-125.5" y="-13.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.skplanet.nlp.common</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">com.skplanet.nlp.common.Properties</node>
+    <node x="0.0" y="745.0">com.skplanet.nlp.common.EditDistance</node>
+    <node x="685.0" y="427.0">com.skplanet.nlp.common.LCS</node>
+    <node x="431.0" y="427.0">com.skplanet.nlp.common.JasoDecomposition</node>
+    <node x="0.0" y="427.0">com.skplanet.nlp.common.Utilities</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="428.0" y="409.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
